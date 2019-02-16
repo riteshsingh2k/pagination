@@ -1,0 +1,14 @@
+/home/ritesh/Test/rtl/sample/bin/Debug/netcoreapp2.1/sample.deps.json
+/home/ritesh/Test/rtl/sample/bin/Debug/netcoreapp2.1/sample.runtimeconfig.json
+/home/ritesh/Test/rtl/sample/bin/Debug/netcoreapp2.1/sample.runtimeconfig.dev.json
+/home/ritesh/Test/rtl/sample/bin/Debug/netcoreapp2.1/sample.dll
+/home/ritesh/Test/rtl/sample/bin/Debug/netcoreapp2.1/sample.pdb
+/home/ritesh/Test/rtl/sample/obj/Debug/netcoreapp2.1/sample.csprojAssemblyReference.cache
+/home/ritesh/Test/rtl/sample/obj/Debug/netcoreapp2.1/sample.csproj.CoreCompileInputs.cache
+/home/ritesh/Test/rtl/sample/obj/Debug/netcoreapp2.1/sample.RazorAssemblyInfo.cache
+/home/ritesh/Test/rtl/sample/obj/Debug/netcoreapp2.1/sample.RazorAssemblyInfo.cs
+/home/ritesh/Test/rtl/sample/obj/Debug/netcoreapp2.1/sample.AssemblyInfoInputs.cache
+/home/ritesh/Test/rtl/sample/obj/Debug/netcoreapp2.1/sample.AssemblyInfo.cs
+/home/ritesh/Test/rtl/sample/obj/Debug/netcoreapp2.1/sample.RazorTargetAssemblyInfo.cache
+/home/ritesh/Test/rtl/sample/obj/Debug/netcoreapp2.1/sample.dll
+/home/ritesh/Test/rtl/sample/obj/Debug/netcoreapp2.1/sample.pdb
